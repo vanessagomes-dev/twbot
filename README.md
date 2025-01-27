@@ -44,29 +44,37 @@ TwBot/
 ├── chatbot_chatterbot.py    # Chatbot utilizando ChatterBot
 ├── web_scraper.py           # Código para extração de textos com Goose3
 └── cotacao.py               # Consulta de cotação de moedas
+```
 
 🖥️ Como Usar
 Siga estas etapas para rodar o projeto em sua máquina:
 
 Pré-requisitos
-Certifique-se de que você tem o Python 3.8+ instalado e o pip atualizado:
-
+**Certifique-se de que você tem o Python 3.8+ instalado e o pip atualizado**:
+```bash
 python --version
 python -m pip install --upgrade pip
+```
 
 ##
 Passos
-**Clone este repositório:**
+**Clone este repositório**:
 
-```git clone https://github.com/seuusuario/TwBot.git
+```bash
+git clone https://github.com/seuusuario/TwBot.git
 cd TwBot
+```
 
-**Instale as dependências:**
+**Instale as dependências**:
 
-```pip install -r requirements.txt
+```bash
+pip install -r requirements.txt
+```
 
-**Execute o chatbot com a interface gráfica:**
-```python interface.py
+**Execute o chatbot com a interface gráfica**:
+```bash
+python interface.py
+```
 
 ##
 Interaja com o chatbot:
@@ -80,24 +88,34 @@ A funcionalidade de cotação utiliza a API AwesomeAPI. Você pode consultar a c
 👩‍💻 Contribuindo
 Contribuições são bem-vindas! Siga estas etapas para contribuir:
 
-**Faça um fork do repositório.**
+**Faça um fork do repositório**.
 
-**Crie uma branch para sua funcionalidade:**
-```git checkout -b minha-nova-feature
+**Crie uma branch para sua funcionalidade**:
+```bash
+git checkout -b minha-nova-feature
+```
 
-**Faça um commit das suas mudanças:**
-```git commit -m "Adicionei uma nova feature"
+**Faça um commit das suas mudanças**:
+```bash
+git commit -m "Adicionei uma nova feature"
+```
 
-**Suba as alterações para o GitHub:**
-```git push origin minha-nova-feature
+**Suba as alterações para o GitHub**:
+```bash
+git push origin minha-nova-feature
+```
 
-**Abra um Pull Request.**
+**Abra um Pull Request**.
 
 ##
 📜 Licença
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
 
+
 ##
-✨ Contato
-Desenvolvido por Vanessa Gomes. Entre em contato comigo no LinkedIn ou envie um e-mail para vanessagomesdev@gmail.com.
+
+✨ **Contato**
+
+Desenvolvido por Vanessa Gomes. Entre em contato comigo no [LinkedIn](https://www.linkedin.com/in/vanessagomesdev) ou envie um e-mail para **vanessagomesdev@gmail.com**.
+
 
